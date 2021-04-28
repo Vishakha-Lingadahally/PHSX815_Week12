@@ -7,3 +7,11 @@
 Answering the questionsposed on Blackboard:
 Q: What does this distribution of averages look like as you increase N?
 Ans: It begins resembling the Gaussian distribution as N increases.
+
+
+References:
+
+1. medium.com/analytics-vidhya
+2. blog.quantinsti.com/
+3. towardsdatascience.com/central-limit-theorem-explained-with-python-code-230884d40ce0
+4. www.freecodecamp.org
