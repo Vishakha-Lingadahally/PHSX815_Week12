@@ -12,6 +12,6 @@ Ans: It begins resembling the Gaussian distribution as N increases.
 References:
 
 1. medium.com/analytics-vidhya
-2. blog.quantinsti.com/
+2. blog.quantinsti.com
 3. towardsdatascience.com/central-limit-theorem-explained-with-python-code-230884d40ce0
 4. www.freecodecamp.org
